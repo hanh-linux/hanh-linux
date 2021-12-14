@@ -1,0 +1,9 @@
+[submodule "pachanh"]
+	path = pachanh
+	url = https://github.com/hanh-linux/pachanh
+[submodule "website"]
+	path = website
+	url = https://github.com/hanh-linux/hanh-linux.github.io
+[submodule "packages"]
+	path = packages
+	url = https://github.com/hanh-linux/hanh-packages
