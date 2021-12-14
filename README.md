@@ -1,6 +1,7 @@
 # Hanh Linux
+> Check out [Basic:Hanh Linux](https://github.com/hanh-linux/wiki/wiki/Basic:Hanh-Linux) for more information
 ## What is this?
-An independent, open-source and source-based Linux distribution. Design for x86_64, build by using [mussel](https://github.com/firasuke/mussel) and use less GNU components 
+An independent, open-source and source-based Linux distribution. Design for x86_64, build by using [mussel](https://github.com/firasuke/mussel) and use less GNU components. 
 ## Goals
 - Fast and lightweight
 - Simple
