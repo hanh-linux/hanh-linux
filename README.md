@@ -26,5 +26,3 @@ For more awesome projects, see [External](https://github.com/hanh-linux/wiki/wik
 |nguyennt.dev | Website developer |
 ## Contributors
 Huge thanks to [firasuke](https://github.com/firasuke), [BasedAce](https://github.com/basedace) and [protonesso](https://gitlab.com/protonesso)
-## Source
-We use patches and build instructions from Arch Linux, Alpine Linux, Ataraxia Linux, LFS and Glaucus Linux.
