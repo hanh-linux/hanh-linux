@@ -1,3 +1,4 @@
+[comment]: <Added some changes by th1nhhdk, thanks for them>
 # Hanh Linux
 > Check out [Basic:Hanh Linux](https://github.com/hanh-linux/wiki/wiki/Basic:Hanh-Linux) for more information
 ## What is this?
@@ -12,7 +13,7 @@ Hanh Linux used to be an Artix-based GNU/Linux distribution and built by using L
 
 For more information, see [Basic:Hanh Linux](https://github.com/hanh-linux/wiki/wiki/Basic:Hanh-Linux#history)
 ## Wiki
-A lot of Wiki pages are outdated, consider not using it. 
+A lot of Wiki pages are out-dated, don't use it. 
 
 For more information, see [Wiki](https://github.com/hanh-linux/wiki/wiki)
 ## License
@@ -25,4 +26,4 @@ For more awesome projects, see [External](https://github.com/hanh-linux/wiki/wik
 |kun          | Main developer    |
 |nguyennt.dev | Website developer |
 ## Contributors
-Huge thanks to [firasuke](https://github.com/firasuke), [BasedAce](https://github.com/basedace) and [protonesso](https://gitlab.com/protonesso)
+Huge thanks to [firasuke](https://github.com/firasuke), [BasedAce](https://github.com/basedace) and [protonesso](https://gitlab.com/protonesso) and [th1nhhdk](https://github.com/th1nhhdk)
