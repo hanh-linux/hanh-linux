@@ -1,12 +1,16 @@
-[submodule "website"]
-	path = website
-	url = https://github.com/hanh-linux/hanh-linux.github.io
-[submodule "packages"]
-	path = packages
-	url = https://github.com/hanh-linux/hanh-packages
-[submodule "wiki-pages"]
-	path = wiki-pages
-	url = https://github.com/hanh-linux/wiki.wiki
+
+[submodule "pachanh"]
+	path = pachanh
+	url = https://github.com/hanh-linux/pachanh-new
 [submodule "pachanh-new"]
 	path = pachanh-new
 	url = https://github.com/hanh-linux/pachanh-new
+[submodule "packages"]
+	path = packages
+	url = https://github.com/hanh-linux/hanh-packages
+[submodule "website"]
+	path = website
+	url = https://github.com/hanh-linux/hanh-linux.github.io
+[submodule "wiki-pages"]
+	path = wiki-pages
+	url = https://github.com/hanh-linux/wiki
